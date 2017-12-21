@@ -1,0 +1,17 @@
+.row-details-open{
+	width:32px;
+	height:32px;
+	background-image: url(../images/minus.png);
+	
+	display: block;
+    float: left;
+}
+
+.row-details-close{
+	width:32px;
+	height:32px;
+	background-image: url(../images/plus.png);
+	
+	display: block;
+    float: left;
+}
